@@ -1,4 +1,4 @@
-# facemorphs
+# FaceMorphs project
 
 #### Below is a description of each R script in the scr folder of this repository: 
 
